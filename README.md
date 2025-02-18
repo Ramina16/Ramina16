@@ -21,7 +21,7 @@ I’m a Computer Vision Engineer with 3 years of professional experience primarl
 
 ### 4. Website for Repair Appliances services (coming soon)
 **Description**: This website offers appliance repair services with appointment scheduling and a ‘call me’ form. FastAPI and PostgreSQL handle backend and data management, while JavaScript powers the frontend. Submissions trigger Telegram notifications for real-time updates.  
-**Tech Stack**: Python, FastAPI, PostgreSQL, JavaScrip, HTML, CSS , Telegram Bot 
+**Tech Stack**: Python, FastAPI, PostgreSQL, JavaScript, HTML, CSS , Telegram Bot 
 In developing [Backend](https://github.com/Ramina16/website_appliances), [Frontend](https://github.com/Ramina16/appliances-frontend)
 
 ## Connect With Me
