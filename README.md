@@ -26,4 +26,4 @@ In developing [Backend](https://github.com/Ramina16/website_appliances), [Fronte
 
 ## Connect With Me
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/olena-kolodiazhna/)
-- **Email**: [Email](kolodiazhna.len4@gmail.com)
+- **Email**: kolodiazhna.len4@gmail.com
